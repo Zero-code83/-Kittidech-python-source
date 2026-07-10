@@ -16,7 +16,7 @@ print("Next year you will be", age + 1, "years old")
 # Exercise 3: Multiple Inputs
 print("\n=== Exercise 3: Multiple Inputs ===")
 first_name = input("Enter your first name: ")
-last_name = input("Enter your last name: ")
+last_name = input("Enter your last name: ") 
 birth_year = int(input("Enter your birth year: "))
 
 current_year = 2025
@@ -29,7 +29,7 @@ print("Calculated age:", calculated_age)
 print("\n=== Exercise 4: Print Formatting ===")
 name = "Alice"
 score = 95
-subject = "Math"
+subject = "Ma"
 
 # Different ways to print the same information
 print("Student:", name, "Score:", score, "Subject:", subject)
