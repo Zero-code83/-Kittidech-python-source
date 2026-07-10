@@ -29,7 +29,7 @@ print("Calculated age:", calculated_age)
 print("\n=== Exercise 4: Print Formatting ===")
 name = "Alice"
 score = 95
-subject = "Ma"
+subject = "Math"
 
 # Different ways to print the same information
 print("Student:", name, "Score:", score, "Subject:", subject)
