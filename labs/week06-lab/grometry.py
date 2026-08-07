@@ -10,7 +10,7 @@ calculate_rectangle_area(5, 3)
 calculate_rectangle_area(10, 7)
 
 
-def calculate_rectangle_area(length, width):
+def calculate_rectangle_area(height, base):
     """Calculates and displays rectangle area"""
     area = length * width
     print(f"Rectangle with length {length} and width {width}")
